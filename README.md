@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Divyansh Desai
 
-<!--
-**Div-Desai/Div-Desai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **React Frontend Developer** from Surat, India 🇮🇳  
+I love building dynamic, responsive, and user-friendly web applications using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools I Work With:
+- ⚛️ **React.js** | 🎛️ **Redux** | 🧩 **JavaScript (ES6+)**
+- 🛠️ **Node.js**, **Express.js**
+- 🗄️ **MongoDB**, **MySQL**
+- 🎨 **HTML5**, **CSS3**, **Material-UI**, **Bootstrap**
+- 🔧 **Git**, **GitHub**, **VS Code**, **Postman**
+- 🚀 Hosting: **Vercel**, **Netlify**
+
+---
+
+## 🚀 Projects
+| Project | Live Demo | GitHub Repo |
+|---------|-----------|-------------|
+| Portfolio Website | Coming Soon | Coming Soon |
+| Task Management App | Coming Soon | Coming Soon |
+| E-Commerce Platform | Coming Soon | Coming Soon |
+| Weather App | Coming Soon | Coming Soon |
+
+> ⚡ *Stay tuned, I'm uploading these soon!*
+
+---
+
+## 📫 Contact Me:
+- 📧 Email: [DivyanshDesai@gmail.com](mailto:DivyanshDesai@gmail.com)
+
